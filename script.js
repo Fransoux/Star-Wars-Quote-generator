@@ -1,7 +1,7 @@
 // Lista de frases
   
   var obiwanQuotes = [ // Obi-Wan Kenobi Quotes
-      "You must do what you feel is right, of course. \n-Obi-Wan Kenobi",
+      "You must do what you feel is right, of course \n-Obi-Wan Kenobi",
       "Mos Eisley Spaceport. You will never find a more wretched hive of scum and villainy. We must be cautious. \n-Obi-Wan Kenobi",
       "Your eyes can deceive you. Don’t trust them. \n-Obi-Wan Kenobi",
       "Remember... the Force will be with you, always. \n-Obi-Wan Kenobi",

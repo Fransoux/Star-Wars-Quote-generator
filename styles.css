@@ -90,3 +90,30 @@ transition:
   transform: translateY(-1px);
   box-shadow: 0 0 10px rgba(255, 232, 31, 0.5);
 }
+
+#quote {
+  white-space: pre-line;
+}
+
+@media (max-width: 600px) {
+
+#prompt{
+    width: 400px;
+    height: 700px;
+}
+
+#prompt h1 {
+padding-top: 5px;
+  font-size: 35px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#prompt p{
+    font-size: 30spx;
+ 
+}
+#prompt button{
+    margin-top: 40px;
+}
+}
